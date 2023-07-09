@@ -1,0 +1,3 @@
+login:akbaroffAdmin
+parol:akbaroffAdmin@admin
+papka url : //akbaroff
